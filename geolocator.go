@@ -6,7 +6,7 @@ import (
 )
 
 const (
-	mainGeolocatorURL   = "http://ip-api.com/json/"
+	mainGeolocatorURL   = "http://www.ip-api.com/json/"
 	backupGeolocatorURL = "http://api.ipstack.com/"
 )
 
