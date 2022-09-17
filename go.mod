@@ -1,4 +1,4 @@
-module github.com/prccaraujo/ssh-to-prom.git
+module github.com/thiesgerken/ssh-to-prom
 
 go 1.13
 
